@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b65d75feb4ec8b4abf51c9e4b136cd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextTile: {instanceID: 0}
+  - spawnedTile: {instanceID: 0}
+  - Coin: {fileID: 4546578727637737817, guid: 9353b28329bc4a043bfb45b43e88f701, type: 3}
+  - rowLeftObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
