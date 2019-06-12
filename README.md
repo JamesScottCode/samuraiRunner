@@ -4,6 +4,10 @@
 
 This is an infinite runner game built in Unity using C#. Some of the models and animations were bought on the Unity marketplace, while the others were built using Blender and Photoshop.
 
+
+DOWNLOAD
+https://www.dropbox.com/s/20679ohclly6mnb/Samurai%20Runner.zip?dl=0
+
 -------------
 -HOW TO PLAY-
 -------------
